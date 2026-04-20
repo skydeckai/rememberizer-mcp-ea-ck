@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/skydeckai-rememberizer-mcp-ea-ck-badge.png)](https://mseep.ai/app/skydeckai-rememberizer-mcp-ea-ck)
+
 # Rememberizer MCP Server for Common Knowledge
 
 This is the public ck for testing purpose
